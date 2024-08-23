@@ -1,6 +1,6 @@
 # Item Manager Web Application
 
-To see and interact a deployed web service of this Repo visit: https://item-manager-web-app.vercel.app/
+To see and interact with a deployed web service of this Repo visit: https://item-manager-web-app.vercel.app/
 
 ## Project Setup and Running Instructions
 
