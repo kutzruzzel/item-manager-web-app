@@ -1,10 +1,14 @@
-# Junior Web Developer Examination
+# Item Manager Web Application
 
 ## Project Setup and Running Instructions
 
 ### Overview
 
 This project includes both a backend and frontend. The backend is built with Flask, and the frontend is built with Next.js. Follow the instructions below to set up and run the project on your local machine.
+
+## Intial Setup for your device
+
+- **Install the latest Node.js and python on your device**
 
 ## Backend Setup (Flask)
 
@@ -15,6 +19,9 @@ This project includes both a backend and frontend. The backend is built with Fla
 - **Navigate to the Backend Directory**
 
   Change to the `flask_api` directory.
+
+  ```bash
+  cd flask_api
 
 - **Create a Virtual Environment**
 
